@@ -1,0 +1,10 @@
+
+> backend@1.0.0 start
+> node server.js
+
+服务器运行在 http://localhost:3000
+WebSocket服务运行在 ws://localhost:3000
+新客户端连接
+新客户端连接
+客户端断开连接
+客户端断开连接
